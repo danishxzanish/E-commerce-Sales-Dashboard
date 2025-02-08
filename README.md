@@ -43,7 +43,7 @@ The project is based on two CSV files:
    - Use the filters and slicers to analyze sales trends.
 
 ## 🖼️ Dashboard Preview
-![Bachchan Bazaar Ecommerce Sales Dashboard](image.png)
+![image](https://github.com/user-attachments/assets/53ef60f9-a6ee-41dd-a608-0ae81a3ac2eb)
 
 ## 🏗️ Technologies Used
 - **📊 Power BI** (for data visualization and dashboard creation)
