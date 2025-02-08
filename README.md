@@ -43,7 +43,7 @@ The project is based on two CSV files:
    - Use the filters and slicers to analyze sales trends.
 
 ## 🖼️ Dashboard Preview
-![image](https://github.com/user-attachments/assets/53ef60f9-a6ee-41dd-a608-0ae81a3ac2eb)
+![image](https://github.com/user-attachments/assets/0784a7fd-ea6b-441e-8a71-9cc343262b0c)
 
 ## 🏗️ Technologies Used
 - **📊 Power BI** (for data visualization and dashboard creation)
